@@ -1,0 +1,39 @@
+.eclipse_img{
+    width: 900px;
+    height: 400px;
+    margin-bottom: 50px;
+    }
+body{
+     background: linear-gradient(#e6d40b 0%,#03b1fc 100%);
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.heading{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 300;
+    color:#e6660b;
+    text-align: center
+}
+.links:hover{
+    background-color: aqua;
+    font-size:25px;
+    text-decoration: underline;
+}
+
+.line{
+    height: 9px;
+    width: 90px;
+    margin: 8px auto;
+    background-color: brown;}
+
+.gif{
+    width: 700px;
+    height: 400px;
+    margin-bottom: 50px;
+}
+.gif2{
+    width: 700px;
+    height: 400px;
+    margin-bottom: 50px;
+}
